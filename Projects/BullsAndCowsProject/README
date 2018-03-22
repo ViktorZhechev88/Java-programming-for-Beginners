@@ -1,5 +1,5 @@
 The computer will generate a hidden number exactly 4 digits long. 
-No digits are allowed to be repeated!
+No digits are allowed to be repeated! You can choose digits for your number from 1 to 9, without duplication.
 The number of Bulls - digits correct in the right position.
 The number of Cows - digits correct but in the wrong position.
 The game will end if you have four Bulls.
